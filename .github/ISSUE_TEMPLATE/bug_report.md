@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report any major bugs (no feature requests)
 title: "[BUG] "
 labels: bug
 assignees: Frostchi
