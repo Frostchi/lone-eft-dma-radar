@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 ***Please check if there is another open issue for this already before opening another.***
+NO/YES I checked.
 
 **Is this for EFT or Arena?**
 EFT/Arena

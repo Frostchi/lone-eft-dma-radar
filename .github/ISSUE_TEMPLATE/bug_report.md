@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 ***Please check if there is another open issue for this already before opening another.***
+NO/YES I checked.
 
 **Describe the bug**
 A clear and concise description of what the bug is.
