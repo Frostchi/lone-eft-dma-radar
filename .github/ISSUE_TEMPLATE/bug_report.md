@@ -2,8 +2,8 @@
 name: Bug report
 about: Report any major bugs (no feature requests)
 title: "[BUG] "
-labels: bug
-assignees: Frostchi
+labels: bug, outage
+assignees: ''
 
 ---
 

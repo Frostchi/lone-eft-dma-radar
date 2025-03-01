@@ -1,9 +1,9 @@
 ---
 name: Outage report
 about: Report a major outage (game update,etc.)
-title: "[OUTAGE]"
+title: "[OUTAGE] "
 labels: outage
-assignees: Frostchi
+assignees: ''
 
 ---
 
